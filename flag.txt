@@ -1,1 +1,1 @@
-flag{GET_TROLLED(I_hope_you_got_rick_rolled_by_the_flag)}
+flag{I_hope_you_got_rick_rolled_by_the_flag}
